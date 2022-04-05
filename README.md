@@ -17,7 +17,7 @@ Install
 
 ---
 
-Spec
+## Spec
 https://docs.google.com/spreadsheets/d/1iWfwf7XSZQzgHwn_H1lRFpJf1Zc-yxpb1dxVcMuXsuk/edit#gid=0
 
 ## Convention (https://github.com/kyhuuhai/training_shop/blob/master/CONVENTION.md)
